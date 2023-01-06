@@ -1,0 +1,8 @@
+id,name,surname,age,weight,height,gender,dailyPoints,weeklyPoints
+7,Freida,Kahlo,40,59.0,1.6,f,26,26
+6,Britney,Spears,39,57.0,1.63,f,26,26
+5,Tony,Stark,46,90.0,1.89,m,41,41
+4,Ben,Powles,40,83.0,1.8,m,38,38
+3,Eleni,Apost,36,62.0,1.6,f,26,26
+2,Lisa,Riddle,18,70.0,1.7,f,26,26
+1,Tom,Riddle,18,70.0,1.7,m,26,26

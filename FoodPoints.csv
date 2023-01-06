@@ -1,0 +1,185 @@
+id,Food,Points,quantity,measure
+184,Pringles texas BBQ sauce,7,40,g
+183,Philadelphia light,2,30,g
+182,Persimmon,0,1,item
+1,Lurpak Lighter Spreadable butter,1,1,teaspoon
+2,poppadoms,2,2,item
+3,Mandarin orange,0,1,item
+4,Tesco cheese thins,1,1,biscuit
+5,fish,0,1,serving
+6,Acorn squash,0,1,serving
+7,"Anchovies, in water",0,1,serving
+8,Apples,0,1,serving
+9,"Apricots, fresh",0,1,serving
+10,"Artichoke hearts, no oil",0,1,serving
+11,Artichokes,0,1,serving
+12,Asparagus,0,1,serving
+13,Aubergine,0,1,serving
+14,Baby corn,0,1,serving
+15,Bamboo shoots,0,1,serving
+16,Bananas,0,1,serving
+17,Basil,0,1,serving
+18,Bean sprouts,0,1,serving
+19,Beetroot,0,1,serving
+20,Black beans,0,1,serving
+21,Blackberries,0,1,serving
+22,Black-eyed peas,0,1,serving
+23,Blueberries,0,1,serving
+24,Broccoli,0,1,serving
+25,Brussels sprouts,0,1,serving
+26,Butternut squash,0,1,serving
+27,"Cabbage, all types",0,1,serving
+28,Cannellini beans,0,1,serving
+29,Cantaloupe,0,1,serving
+30,Carp,0,1,serving
+31,Carrots,0,1,serving
+32,Catfish,0,1,serving
+33,Cauliflower,0,1,serving
+34,Cauliflower rice,0,1,serving
+35,Caviar,0,1,serving
+36,Celery,0,1,serving
+37,Cherries,0,1,serving
+38,Chicken breast mince,0,1,serving
+39,Chickpeas,0,1,serving
+40,Chives,0,1,serving
+41,Clams,0,1,serving
+42,Clementines,0,1,serving
+43,Cod,0,1,serving
+44,Coriander,0,1,serving
+45,Corn on the cob,0,1,serving
+46,Courgettes,0,1,serving
+47,"Crabmeat, lump",0,1,serving
+48,"Cranberries, fresh",0,1,serving
+49,Crayfish,0,1,serving
+50,Cucumber,0,1,serving
+51,Cuttlefish,0,1,serving
+52,Dragon fruit,0,1,serving
+53,Edamame,0,1,serving
+54,Eel,0,1,serving
+55,"Eggs, all types",0,1,serving
+56,Endive,0,1,serving
+57,Fava beans,0,1,serving
+58,Fennel,0,1,serving
+59,"Figs, fresh",0,1,serving
+60,Fish roe,0,1,serving
+61,Flounder,0,1,serving
+62,"Frozen mixed berries, unsweetened",0,1,serving
+63,"Fruit cocktail, unsweetened",0,1,serving
+64,Garlic,0,1,serving
+65,Ginger,0,1,serving
+66,Grapefruit,0,1,serving
+67,Grapes,0,1,serving
+68,"Greek yogurt, plain, fat-free",0,1,serving
+69,Green beans,0,1,serving
+70,Grouper,0,1,serving
+71,Guava,0,1,serving
+72,Haddock,0,1,serving
+73,Halibut,0,1,serving
+74,Hearts of palm,0,1,serving
+75,Herring,0,1,serving
+76,Honeydew,0,1,serving
+77,Kale,0,1,serving
+78,Kidney beans,0,1,serving
+79,Kiwi,0,1,serving
+80,Kohlrabi,0,1,serving
+81,Kumquats,0,1,serving
+82,Leeks,0,1,serving
+83,Lemons,0,1,serving
+84,Lentils,0,1,serving
+85,"Lettuce, all types",0,1,serving
+86,Lima beans,0,1,serving
+87,Limes,0,1,serving
+88,Lobster,0,1,serving
+89,Mahi mahi,0,1,serving
+90,Mangoes,0,1,serving
+91,Mint,0,1,serving
+92,Mixed greens,0,1,serving
+93,Monkfish,0,1,serving
+94,Mushrooms,0,1,serving
+95,Mussels,0,1,serving
+96,Nectarines,0,1,serving
+97,Nori (seaweed),0,1,serving
+98,Octopus,0,1,serving
+99,Okra,0,1,serving
+100,Onions,0,1,serving
+101,Orange roughy,0,1,serving
+102,Oranges,0,1,serving
+103,Oregano,0,1,serving
+104,Oysters,0,1,serving
+105,Pak choi,0,1,serving
+106,Papayas,0,1,serving
+107,Parsley,0,1,serving
+108,Parsnips,0,1,serving
+109,Pea shoots,0,1,serving
+110,Peaches,0,1,serving
+111,Pears,0,1,serving
+112,Peas,0,1,serving
+113,Peppers,0,1,serving
+114,Perch,0,1,serving
+115,Persimmons,0,1,serving
+116,"Pickles, unsweetened",0,1,serving
+117,Pike,0,1,serving
+118,Pineapples,0,1,serving
+119,Pinto beans,0,1,serving
+120,"Plain yogurt, fat-free",0,1,serving
+121,Plums,0,1,serving
+122,Pollock,0,1,serving
+123,Pomegranates,0,1,serving
+124,Pomelo,0,1,serving
+125,Pompano,0,1,serving
+126,Prawns,0,1,serving
+127,Pumpkin,0,1,serving
+128,"Quark, plain, fat-free",0,1,serving
+129,"Quorn, plain, all types",0,1,serving
+130,Radishes,0,1,serving
+131,Raspberries,0,1,serving
+132,"Refried beans, canned, fat-free",0,1,serving
+133,Rocket,0,1,serving
+134,Rosemary,0,1,serving
+135,Salmon,0,1,serving
+136,"Sardines, canned in water or brine",0,1,serving
+137,Sashimi,0,1,serving
+138,Scallops,0,1,serving
+139,Sea bass,0,1,serving
+140,Sea cucumber,0,1,serving
+141,Sea urchin,0,1,serving
+142,Shallots,0,1,serving
+143,Shrimp,0,1,serving
+144,Skinless chicken breast,0,1,serving
+145,Skinless turkey breast,0,1,serving
+146,Smoked haddock,0,1,serving
+147,Smoked mackerel,0,1,serving
+148,Smoked salmon,0,1,serving
+149,Smoked sturgeon,0,1,serving
+150,Smoked trout,0,1,serving
+151,Smoked whitefish,0,1,serving
+152,Snails,0,1,serving
+153,Snapper,0,1,serving
+154,Sole,0,1,serving
+155,Soya beans,0,1,serving
+156,"Soya yogurt, plain",0,1,serving
+157,Spaghetti squash,0,1,serving
+158,Spinach,0,1,serving
+159,Spring onions,0,1,serving
+160,Squid,0,1,serving
+161,Star fruit,0,1,serving
+162,Strawberries,0,1,serving
+163,Sturgeon,0,1,serving
+164,Succotash,0,1,serving
+165,Sweetcorn,0,1,serving
+166,Swiss chard,0,1,serving
+167,Swordfish,0,1,serving
+168,Tangerines,0,1,serving
+169,Tarragon,0,1,serving
+170,"Tempeh, plain, all types",0,1,serving
+171,Thyme,0,1,serving
+172,Tilapia,0,1,serving
+173,"Tofu, plain, all types",0,1,serving
+174,Tomatoes,0,1,serving
+175,Trout,0,1,serving
+176,Tuna,0,1,serving
+177,Turbot,0,1,serving
+178,Turkey breast mince,0,1,serving
+179,Turnips,0,1,serving
+180,Water chestnuts,0,1,serving
+181,White fish,0,1,serving
